@@ -1,4 +1,7 @@
 # WorldConqueror
+
+# Ohne Wirtschaftserweiterung
+
 <img width="2559" height="1079" alt="Screenshot 2026-08-16 144340" src="https://github.com/user-attachments/assets/67697ef0-7866-4d3b-9413-ed6f57e80ec0" />
 
 <img width="2559" height="1079" alt="Screenshot 2026-08-16 144513" src="https://github.com/user-attachments/assets/eff9c1d3-6c98-49e7-a464-612e4a2d8c98" />
@@ -18,3 +21,13 @@
 <img width="2559" height="1079" alt="Screenshot 2026-08-16 145057" src="https://github.com/user-attachments/assets/43cbe931-8546-49c1-9ab5-0062ed35b724" />
 
 <img width="2559" height="1079" alt="Screenshot 2026-08-16 145321" src="https://github.com/user-attachments/assets/0322178e-d005-4133-ac96-b2fe1f34966b" />
+
+# Mit Wirtschaftserweiterung
+
+<img width="2559" height="1079" alt="Screenshot 2026-08-16 145719" src="https://github.com/user-attachments/assets/0938823c-1c9a-4489-a2de-4e469b0ae76f" />
+
+<img width="2559" height="1079" alt="Screenshot 2026-08-16 145735" src="https://github.com/user-attachments/assets/76b6487f-9d13-4dab-9cec-f6fc683fa91c" />
+
+<img width="2559" height="1079" alt="Screenshot 2026-08-16 145745" src="https://github.com/user-attachments/assets/df2840db-31af-4902-853d-067850b980fd" />
+
+# Generell
