@@ -57,3 +57,13 @@
 <img width="1920" height="1080" alt="73_atompilz_druckwelle" src="https://github.com/user-attachments/assets/ae548c43-0184-4fd1-b58b-2ac28745ccf3" />
 
 <img width="1920" height="1080" alt="75_singularitaetsbombe" src="https://github.com/user-attachments/assets/2be3a9d2-3a8f-477e-b556-8e23bdd38df7" />
+
+<img width="1920" height="1080" alt="77_menue_hafen_baumenue_rom" src="https://github.com/user-attachments/assets/d26ef30c-9394-48c1-b1bd-3bf0505bea8f" />
+
+<img width="1920" height="1080" alt="79_menue_flughafen_menue" src="https://github.com/user-attachments/assets/8026ae23-06ea-4d58-85b8-f646f5c1a001" />
+
+<img width="1920" height="1080" alt="89_menue_technologiebaum" src="https://github.com/user-attachments/assets/348b02fe-e3cf-4b15-ad65-5ef91bf566fa" />
+
+<img width="1920" height="1080" alt="90_menue_handelsplatz" src="https://github.com/user-attachments/assets/46f09813-a044-48fb-be88-36fb68fe9087" />
+
+<img width="1920" height="1080" alt="94_menue_finanzstatistik_f7" src="https://github.com/user-attachments/assets/75fb4fb5-f989-4ef2-84d4-8aa19c4b28cf" />
