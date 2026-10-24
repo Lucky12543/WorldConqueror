@@ -64,6 +64,4 @@
 
 <img width="1920" height="1080" alt="89_menue_technologiebaum" src="https://github.com/user-attachments/assets/348b02fe-e3cf-4b15-ad65-5ef91bf566fa" />
 
-<img width="1920" height="1080" alt="90_menue_handelsplatz" src="https://github.com/user-attachments/assets/46f09813-a044-48fb-be88-36fb68fe9087" />
-
 <img width="1920" height="1080" alt="94_menue_finanzstatistik_f7" src="https://github.com/user-attachments/assets/75fb4fb5-f989-4ef2-84d4-8aa19c4b28cf" />
